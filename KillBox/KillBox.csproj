@@ -80,9 +80,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\General\Damage.cs" />
+    <Compile Include="Assets\Scripts\General\HealthManager.cs" />
+    <Compile Include="Assets\Scripts\General\TempEffect.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerControllerTemplate.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Zone\CameraController.cs" />
     <Compile Include="Assets\_Prefabs\Player\SwordAttack\SwordAttack.cs" />
+=======
+    <Compile Include="Assets\Scripts\Player\SwordAttack.cs" />
+>>>>>>> 2dff398c99c67f61e0bc18a2accfeeae7dc1fa10
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Art\v1.1 dungeon crawler 16x16 pixel pack\tiles\wall\obs.txt" />
